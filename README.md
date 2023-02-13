@@ -4,7 +4,7 @@
 	<meta charset="utf8">
 	<title>Times New Roman<title>
 		<style>
-		Body{
+		*{
 		font-family: "Times New Roman"
 		}
 		.red{
